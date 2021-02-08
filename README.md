@@ -1,6 +1,8 @@
 ## Hey 👋, I'm [Andrey Andonov!](https://github.com/arevolutioner
 )
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arevolutioner/arevolutioner/master/AndreyCover.JPG" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/andreyandonov )
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anddev.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Andrey_Andonov)
@@ -12,12 +14,12 @@ I'm a cross-disciplinary software developer and product manager with a backgroun
 
 I'm a co-founder of Egregore Films where I produced and directed feature films, and NatureMediaAB where I created Brand Storytelling projects for clients like Carlsberg, HBO, Toyota and National Geographic. I'm also a co-founder of YonuqieFoods - manufacturing delicious healthy food.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arevolutioner/arevolutioner/master/coder.gif" />
+
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning React and its ecosystem.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arevolutioner).
 - 📫 &nbsp; How to reach me: andrey.andonov@yahoo.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/arevolutioner/arevolutioner/blob/master/resume.pdf).
