@@ -26,8 +26,8 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring and learning new stuff.
-- 📰 &nbsp; Reading & writing tech blogs and non tech information whenever possible.
-- 🍕 &nbsp; Having desire to create helpful and user friendly apps. 
+- 📰 &nbsp; Reading and writing about tech and non tech.
+- 🍕 &nbsp; Passionate to create impactful, scalable, and aesthetic-user friendly products. 
 
 ### Languages and Tools:
 
