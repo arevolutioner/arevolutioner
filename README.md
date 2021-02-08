@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Andrey Andonov!](https://github.com/arevolutioner)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/arevolutioner/arevolutioner/blob/main/AndreyCover.JPG"/>
+<img align="right" height="500" width="750" alt="" src="https://github.com/arevolutioner/arevolutioner/blob/main/AndreyCover.JPG"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/andreyandonov )
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anddev.netlify.app/)
@@ -21,7 +21,7 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 - 🚀 &nbsp; I’m currently learning React and its ecosystem.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arevolutioner).
 - 📫 &nbsp; How to reach me: andrey.andonov@yahoo.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/arevolutioner/arevolutioner/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/arevolutioner/arevolutioner/blob/main/AndonovResume.pdf).
 
 ### My Absolute Favorites:
 
