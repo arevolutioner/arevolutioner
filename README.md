@@ -8,9 +8,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arevolutioner.arevolutioneri&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a cross-disciplinary software developer and product manager with a background in Media Content Projects, GIS and Ecology. I'm interested in product and web development
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+I'm a co-founder of Egregore Films where I produced and directed feature films, and NatureMediaAB where I created Brand Storytelling projects for clients like Carlsberg, HBO, Toyota and National Geographic. I'm also a co-founder of YonuqieFoods - manufacturing delicious healthy food.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/arevolutioner/arevolutioner/master/coder.gif" />
 
