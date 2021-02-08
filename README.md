@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arevolutioner.arevolutioneri&style=flat-square&color=0088cc)
 
-I'm a cross-disciplinary software developer and product manager with a background in Media Content Projects, GIS and Ecology. I'm interested in product and web development
+I'm a self-taught, cross-disciplinary software developer and product manager with a background in Media Content Projects, GIS and Ecology. I'm interested in product and web development
 
 I'm a co-founder of Egregore Films where I produced and directed feature films, and NatureMediaAB where I created Brand Storytelling projects for clients like Carlsberg, HBO, Toyota and National Geographic. I'm also a co-founder of YonuqieFoods - manufacturing delicious healthy food.
 
@@ -17,7 +17,6 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning React and its ecosystem.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arevolutioner).
 - 📫 &nbsp; How to reach me: andrey.andonov@yahoo.com
