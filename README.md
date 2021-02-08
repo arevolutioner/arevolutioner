@@ -49,7 +49,8 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arevolutioner)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arevolutioner&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arevolutioner&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
