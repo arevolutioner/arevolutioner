@@ -58,7 +58,7 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arevolutioner&hide_border=true" />
 </details>
 
 
