@@ -46,14 +46,5 @@ I'm a co-founder of Egregore Films where I produced and directed feature films, 
 -->
 
 
-# [GitHub Stats Visualization](https://github.com/arevolutioner/github-stats)
-
-<a href="https://github.com/arevolutioner/github-stats">
-
-![](https://github.com/arevolutioner/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/arevolutioner/github-stats/blob/master/generated/languages.svg)
-
-</a>
-
 
 
